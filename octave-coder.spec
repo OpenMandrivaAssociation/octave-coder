@@ -2,7 +2,7 @@
 
 Summary:	A code generator and build system that converts Octave to C++
 Name:		octave-coder
-Version:	1.9.2
+Version:	1.10.1
 Release:	1
 License:	AGPLv3+
 Group:		Sciences/Mathematics
