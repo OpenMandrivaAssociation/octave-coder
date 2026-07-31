@@ -2,8 +2,8 @@
 
 Summary:	A code generator and build system that converts Octave to C++
 Name:		octave-coder
-Version:	1.10.1
-Release:	2
+Version:	1.11.1
+Release:	1
 License:	AGPLv3+
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/coder/
@@ -33,7 +33,7 @@ C++ and builds a .oct shared module.
 #---------------------------------------------------------------------------
 
 %prep
-%autosetup -p1 -n OctaveCoder-%{octpkg}-%{version}
+%autosetup -p1 -n OctaveCoder-coder-1.11.1
 
 %build
 # force CXXFLAGS
